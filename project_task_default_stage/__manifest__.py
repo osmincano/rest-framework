@@ -15,7 +15,7 @@
         'project',
     ],
     'data': [
-        'views/project_view.xml',
+        #'views/project_view.xml',
         #'data/project_data.xml',
     ],
     'installable': True,
