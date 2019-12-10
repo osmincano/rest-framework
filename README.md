@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/OCA/rest-framework.svg?branch=12.0)](https://travis-ci.org/OCA/rest-framework)
 [![codecov](https://codecov.io/gh/OCA/rest-framework/branch/12.0/graph/badge.svg)](https://codecov.io/gh/OCA/rest-framework)
 
-# REST Framework
+# REST Framework odoo
 
 This repo holds addons developed to ease the development of REST services into Odoo.
 
