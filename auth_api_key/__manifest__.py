@@ -11,7 +11,7 @@
     "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
     "website": "https://acsone.eu/",
     "development_status": "Beta",
-    "depends": ["server_environment"],
+    "depends": [],
     "data": [],
     "demo": [],
 }
